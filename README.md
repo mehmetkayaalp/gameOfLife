@@ -1,2 +1,2 @@
 # gameOfLife
-Test driven project 
+Test Driven Development 
